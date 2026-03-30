@@ -20,6 +20,8 @@
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="24"/></span>
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24"/></span>
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://skillicons.dev/icons?i=rust" height="24"/></span>
+<span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="24" alt="bash logo"  />
+</div></span>
 
 <br/>
 
@@ -28,6 +30,7 @@
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="24"/></span>
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24"/></span>
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="24"/></span>
+<span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24"/></span>
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="24"/></span>
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="24"/></span>
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="24"/></span>
@@ -35,6 +38,7 @@
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="24"/></span>
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="24"/></span>
 <span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="24"/></span>
+<span style="display:inline-block; padding:6px; margin:4px; border:1px solid #ffffff; background-color:#161b22; border-radius:8px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="24"/></span>
 
 <br/>
 
@@ -126,12 +130,18 @@ hobbies:
 </tr>
 </table>
 
-###
+### 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sagnik-11j&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagnik-11j&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<table>
+<tr>
+<td align="center">
+  <img src="https://streak-stats.demolab.com?user=Sagnik-11j&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" />
+</td>
+<td align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagnik-11j&radius=16&theme=dracula&area=true&order=5" height="180" />
+</td>
+</tr>
+</table>
 
 ###
 
