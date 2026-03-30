@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sagnik-11j/Sagnik-11j/main/assets/ascii-art-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sagnik-11j/Sagnik-11j/main/assets/ascii-art-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sagnik-11j/Sagnik-11j/main/assets/ascii-art-light.PNG">
   <img src="https://raw.githubusercontent.com/Sagnik-11j/Sagnik-11j/main/assets/ascii-art-dark.png" width="100%" style="border-radius:10px;" />
 </picture>
 
