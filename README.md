@@ -2,7 +2,11 @@
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://raw.githubusercontent.com/Sagnik-11j/Sagnik-11j/main/assets/ascii-art-new.PNG" width="100%" style="border-radius:10px;" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sagnik-11j/Sagnik-11j/main/assets/ascii-art-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sagnik-11j/Sagnik-11j/main/assets/ascii-art-light.png">
+  <img src="https://raw.githubusercontent.com/Sagnik-11j/Sagnik-11j/main/assets/ascii-dark.png" width="100%" style="border-radius:10px;" />
+</picture>
 
 <br/>
 
